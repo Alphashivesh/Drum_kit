@@ -1,5 +1,7 @@
 # Drum_kit
 
+[Live Demo 🚀](https://vercel.com/shivesh-kumars-projects-8aad6625/drum-kit)
+
 This mini project is a simple web-based drum kit application. It allows users to play different drum sounds by either clicking on buttons or pressing specific keys on their keyboard.
 
 Working on this mini project provided a hands-on experience with web development using HTML, CSS, and JavaScript.
@@ -11,7 +13,5 @@ CSS: You gained experience in styling web page elements using CSS. This included
 JavaScript: You enhanced your JavaScript skills by adding interactivity to the web page. You learned how to add event listeners to detect user interactions, play audio files, and manipulate the DOM to create visual effects.
 
 Overall, this project helped you understand the basics of creating an interactive web application and improved your proficiency in front-end web development technologies.
-
-One can enjoy it "https://vercel.com/shivesh-kumars-projects-8aad6625/drum-kit"
 
 Made with 💕💕💕❤️💕💕💕💝💕💕💕❤️💕💕💕
