@@ -1,6 +1,6 @@
 # Drum_kit
 
-[Live Demo 🚀](https://vercel.com/shivesh-kumars-projects-8aad6625/drum-kit)
+[Live Demo 🚀](https://drum-kit-seven-gilt.vercel.app/)
 
 This mini project is a simple web-based drum kit application. It allows users to play different drum sounds by either clicking on buttons or pressing specific keys on their keyboard.
 
